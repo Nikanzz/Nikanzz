@@ -41,7 +41,18 @@ Saya adalah mahasiswa Teknik Informatika di **Universitas Tarumanagara** dengan 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikanzz&show_icons=true&theme=radical&hide_border=true" alt="Jeremia's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikanzz&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nikanzz&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikanzz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
